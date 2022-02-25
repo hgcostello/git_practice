@@ -11,7 +11,7 @@ def get_name():
 
 def greet_user():
     name = get_name()
-    print("hello {}!".format(name))
+    print("hello {}! This is slightly changed".format(name))
     # statement = "Nice to meet you {}!".format(name)
     # print(statement)
 
